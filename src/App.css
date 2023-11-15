@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    /* background-image: url(assets/bg3.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.pageLayout{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   /*  color: white; */
+   background-color: black;
+}
+
+
+section {
+    padding: 10px;
+    min-height: 100vh; /* Ensure sections take up the full viewport height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top:10px;
+    justify-content: center;
+    text-align: center;
+  }
+
+
+  .home {
+    background-image: url('./assets/bg3.jpg'); /* Replace with your preferred background image */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+  }
+  
+
+  /* styles.css */
+
+@media (max-width: 768px) {
+  .mobile-header {
+    display: block !important;
+  }
+  .header-container{
+    display: none !important;
+  }
+  /* .mobile-menu {
+    display: block !important;
+  } */
+
+}
