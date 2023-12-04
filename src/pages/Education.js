@@ -6,8 +6,8 @@ const degrees = [
   {
     title: "Master of Technology (M.Tech)",
     course: 'Computer Science and Engineering, Information Security',
-    institution: "National Institute of Technology, Manipur",
-    year: '2019',
+    institution: "National Institute of Technology,Surathkal, Karnataka",
+    year: '2022',
 
   },
   {

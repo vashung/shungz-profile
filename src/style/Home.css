@@ -19,14 +19,14 @@
 
   .content h1 {
     font-family: 'Your Custom Font', sans-serif; /* Replace with your preferred font family */
-  font-size: 48px;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: #fff;
-  letter-spacing: 2px;
-  animation: fadeInText 1.5s ease 0.5s forwards;
-  transition: transform 0.3s;
-  position: relative;
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 2px;
+    animation: fadeInText 1.5s ease 0.5s forwards;
+    transition: transform 0.3s;
+    position: relative;
   }
 
   
